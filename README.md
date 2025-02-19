@@ -25,3 +25,4 @@ npm run dev
 ```
 
 The application should now be running at http://localhost:5174 (or another available port).
+
